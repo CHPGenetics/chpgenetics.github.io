@@ -1,7 +1,17 @@
 # Chen Lab Website
 URL: [https://sites.pitt.edu/~wec47/](https://sites.pitt.edu/~wec47/)
 
-## Update directions
+## Quick update guidelines
+
+You can always easily update the contents by GitHub official editor. Most of the contents are in Markdown format ([Quickstart](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)).
+
+Update **news**: [link](https://github.com/CHPGenetics/chpgenetics.github.io/blob/main/content/news/_index.md)
+
+Update **members**: [link](https://github.com/CHPGenetics/chpgenetics.github.io/tree/main/content/authors) (You may need to create a new folder for new member and refer to the structure of other existing members.)
+
+The website will automatically update once you modify and commit the file contents in this repository. [Check status](https://github.com/CHPGenetics/chpgenetics.github.io/actions)
+
+## Local compile directions
 
 Please install hugo v0.92.0 extended based on your OS. There is known issue with the latest version of hugo. Only v0.92.0 is verified. [Download link](https://github.com/gohugoio/hugo/releases/tag/v0.92.0)
 
@@ -16,6 +26,8 @@ The generated `public` folder is the whole static website. Move it to the server
 Check the `base_url` in config/_default/config.toml if your host domain is changed.
 
 
+---
+*You might not need the information below, but it’s here just in case.*
 
 # Original README of this hugo template (Some links have been confirmed as broken)
 
