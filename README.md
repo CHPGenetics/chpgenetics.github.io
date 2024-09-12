@@ -7,6 +7,10 @@ You can always easily update the contents by GitHub official editor. Most of the
 
 Update **news**: [link](https://github.com/CHPGenetics/chpgenetics.github.io/blob/main/content/news/_index.md)
 
+Update **recent news on homepage**: [link](https://github.com/CHPGenetics/chpgenetics.github.io/blob/main/content/home/recent%20news.md)
+
+Update **recent publications on homepage**: [link](https://github.com/CHPGenetics/chpgenetics.github.io/blob/main/content/home/recent%20publications.md)
+
 Update **members**: [link](https://github.com/CHPGenetics/chpgenetics.github.io/tree/main/content/authors) (You may need to create a new folder for new member and refer to the structure of other existing members.)
 
 The website will automatically update once you modify and commit the file contents in this repository. [Check status](https://github.com/CHPGenetics/chpgenetics.github.io/actions)
