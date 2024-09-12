@@ -11,7 +11,7 @@ title = "Chen Lab"
 #disablePathToLower = true
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://sites.pitt.edu/~wec47/"
+baseurl = "https://chenlab.pitt.edu"
 relativeURLs = false
 uglyURLs = true
 
