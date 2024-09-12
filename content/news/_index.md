@@ -12,7 +12,7 @@ view: 2
 #  caption: ""
 #  image: "research.jpg"
 ---
-- 7/2024 Haoran has one paper published in [Nature Communications](https://www.nature.com/articles/s41467-024-49448-x)
+- 7/2024 Haoran's paper has been accepted by [Nature Communications](https://www.nature.com/articles/s41467-024-49448-x).
 - 3/2024 Chen Lab received an [R01](https://reporter.nih.gov/search/xzRDncNh6Ei48FgOMdC6iQ/project-details/10805885) (with Dr. Duerr) from NIDDK to generate a large-scale trans-ancestry, single-cell multi-omics dataset on CD4 T cells. 
 - 2/2024 Molin Yue received the 2024 ATS Abstract Scholarship. 
 - 1/2024 Dr. Chen was elected as Secretary of [Chinese-American Lung Association](https://mycala.org/) (CALA)  
