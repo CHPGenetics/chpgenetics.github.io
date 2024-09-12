@@ -75,7 +75,7 @@ subtitle = ""
 - 1/2023 Wei Chen was elected as American Thoracic Society Fellow (ATS)
 
 
-[more news](https://sites.pitt.edu/~wec47/news.html)
+[more news](https://chenlab.pitt.edu/news.html)
 
 <!--- [more news]({{< ref "/news/_index.md" >}}) -->
 
