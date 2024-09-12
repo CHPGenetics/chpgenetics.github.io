@@ -1,5 +1,5 @@
 # Chen Lab Website
-URL: [https://sites.pitt.edu/~wec47/](https://sites.pitt.edu/~wec47/)
+URL: [https://chenlab.pitt.edu](https://chenlab.pitt.edu)
 
 ## Quick update guidelines
 
