@@ -65,8 +65,10 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
-+++
-- 7/2024 Haoran's paper has been accepted by [Nature Communications](https://www.nature.com/articles/s41467-024-49448-x).
++++ 
+- 9/2024 Dr. Chen joined the officers of Pittsburgh Chapter, American Association Society as Chapter Representative. 
+- 8/2024 Haoran's paper was published by [Nature Communications](https://www.nature.com/articles/s41467-024-49448-x) and selected as a featured artile.
+- 5/2024 Dr. Chen co-organized [STATGEN 2024] (https://www.publichealth.pitt.edu/statgen-2024-conference-statistics-genomics-and-genetics) conference in Pittsburgh)
 - 3/2024 Chen Lab received an [R01](https://reporter.nih.gov/search/xzRDncNh6Ei48FgOMdC6iQ/project-details/10805885) (with Dr. Duerr) from NIDDK to generate a large-scale trans-ancestry, single-cell multi-omics dataset on CD4 T cells. 
 - 2/2024 Molin Yue received the 2024 ATS Abstract Scholarship. 
 - 1/2024 Dr. Chen was elected as Secretary of [Chinese-American Lung Association](https://mycala.org/) (CALA) 
