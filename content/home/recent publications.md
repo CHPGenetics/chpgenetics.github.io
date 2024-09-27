@@ -68,6 +68,8 @@ subtitle = ""
 +++
 - Hu H, Wang X, Feng S, Xu Z, Liu J, Heidrich-O’Hare E, Chen Y, Yue M, Zeng L, Rong Z, Chen T, Billiar T, Ding Y, Huang H, Duerr R, **Chen W**. [A unified model-based framework for doublet or multiplet detection in single-cell multiomics data.](https://www.nature.com/articles/s41467-024-49448-x) <em><ins>Nature Communications. 2024 Jul 2;15(1):5562</ins></em>.
 
+- Zhao C, Xu Z, Wang X, Tao S, MacDonald WA, He K, Poholek AC, Chen K, Huang H, **Chen W**. [Innovative super-resolution in spatial transcriptomics: a transformer model exploiting histology images and spatial gene expression.](https://academic.oup.com/bib/article/25/2/bbae052/7618072?login=false) Briefings in Bioinformatics. 2024 Jan 22;25(2):bbae052. PMID: 38436557. PMCID: PMC10939304 </ins></em>
+
 - Xu Z, Heidrich-O’Hare E, **Chen W**, Duerr R. [Comprehensive benchmarking of CITE-seq versus DOGMA-seq single cell multimodal omics.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02698-8) <em><ins>Genome Biol 23, 135 (2022)</ins></em>.
 
 - Ganjdanesh A, Zhang J, Chew EY, Ding Y, Huang H, **Chen W**. [LONGL-Net: temporal correlation structure guided deep learning model to predict longitudinal age-related macular degeneration severity.](https://academic.oup.com/pnasnexus/article/1/1/pgab003/6550868) <em><ins>PNAS Nexus. 2022 Mar;1(1):pgab003</ins></em>.
