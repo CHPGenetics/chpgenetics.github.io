@@ -11,6 +11,8 @@ Update **recent news on homepage**: [link](https://github.com/CHPGenetics/chpgen
 
 Update **recent publications on homepage**: [link](https://github.com/CHPGenetics/chpgenetics.github.io/blob/main/content/home/recent%20publications.md)
 
+Update **Chenlab's research interests on homepage**: [link](https://github.com/CHPGenetics/chpgenetics.github.io/blob/main/content/authors/admin/_index.md)
+
 Update **members**: [link](https://github.com/CHPGenetics/chpgenetics.github.io/tree/main/content/authors) (You may need to create a new folder for new member and refer to the structure of other existing members.)
 
 Update **Dr. Chen's CV pdf file**: [link](https://github.com/CHPGenetics/chpgenetics.github.io/tree/main/static/files) (You may need to first delete the old file and then upload the new file.)
