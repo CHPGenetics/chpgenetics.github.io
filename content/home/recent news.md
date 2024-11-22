@@ -66,6 +66,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++ 
+- 11/2024 Xueping's paper was published by [Briefings in Bioinformatics]([https://srfcure.org/disease-propogation-in-juvenile-sclerode](https://academic.oup.com/bib/article/25/6/bbae585/7900220).
+- 10/2024 Chen Lab received a renewal from [Scleroderma Research Funding](https://srfcure.org/disease-propogation-in-juvenile-scleroderma/)(with Dr. Torok) to continue the study of spatial transcriptomics in pediatric scleroderma patients. 
 - 9/2024 Dr. Chen joined the officers of Pittsburgh Chapter, American Association Society as Chapter Representative. 
 - 8/2024 Haoran's paper was published by [Nature Communications](https://www.nature.com/articles/s41467-024-49448-x) and selected as a featured article.
 - 5/2024 Dr. Chen co-organized [STATGEN 2024](https://www.publichealth.pitt.edu/statgen-2024-conference-statistics-genomics-and-genetics) conference in Pittsburgh. 
