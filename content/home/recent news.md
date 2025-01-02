@@ -66,6 +66,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++ 
+- 1/2025 Congratulations to Molin Yue's work on child asthma endotypes published in [JAMA](https://jamanetwork.com/journals/jama/article-abstract/2828721).   
 - 12/2024 Haoran Hu was awarded a two-year RAC graduate student fellowship from UPMC Children's Hospital of Pittsburgh. 
 - 11/2024 Xueping's paper was published by [Briefings in Bioinformatics](https://academic.oup.com/bib/article/25/6/bbae585/7900220).
 - 10/2024 Chen Lab received a renewal from [Scleroderma Research Funding](https://srfcure.org/disease-propogation-in-juvenile-scleroderma/)(with Dr. Torok) to continue the study of spatial transcriptomics in pediatric scleroderma patients. 
