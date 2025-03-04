@@ -66,6 +66,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+- Yue M, Gaietto K, Han YY, Rosser F, Xu Z, Qoyawayma C, Acosta-Perez E, Canino G, Forno E, **Chen W#**, Juan Celedon#. [Transcriptomic Profiles in Nasal Epithelium and Asthma Endotypes in Youth](https://jamanetwork.com/journals/jama/article-abstract/2828721?resultClick=1). JAMA. 2025 Jan 2. doi: 10.1001/jama.2024.22684. PMID: 39745770. 
+
+
 - Hu H, Wang X, Feng S, Xu Z, Liu J, Heidrich-O’Hare E, Chen Y, Yue M, Zeng L, Rong Z, Chen T, Billiar T, Ding Y, Huang H, Duerr R, **Chen W**. [A unified model-based framework for doublet or multiplet detection in single-cell multiomics data.](https://www.nature.com/articles/s41467-024-49448-x) <em><ins>Nature Communications. 2024 Jul 2;15(1):5562</ins></em>.
 
 - Zhao C, Xu Z, Wang X, Tao S, MacDonald WA, He K, Poholek AC, Chen K, Huang H, **Chen W**. [Innovative super-resolution in spatial transcriptomics: a transformer model exploiting histology images and spatial gene expression.](https://academic.oup.com/bib/article/25/2/bbae052/7618072?login=false) <em><ins>Briefings in Bioinformatics. 2024 Jan 22;25(2):bbae052. PMID: 38436557. PMCID: PMC10939304 </ins></em>
