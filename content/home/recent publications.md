@@ -66,7 +66,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-- Yue M, Gaietto K, Han YY, Rosser F, Xu Z, Qoyawayma C, Acosta-Perez E, Canino G, Forno E, **Chen W#**, Juan Celedon#. [Transcriptomic Profiles in Nasal Epithelium and Asthma Endotypes in Youth](https://jamanetwork.com/journals/jama/article-abstract/2828721?resultClick=1). JAMA. 2025 Jan 2. doi: 10.1001/jama.2024.22684. PMID: 39745770. 
+- Yue M, Gaietto K, Han YY, Rosser F, Xu Z, Qoyawayma C, Acosta-Perez E, Canino G, Forno E, **Chen W#**, Juan Celedon#. [Transcriptomic Profiles in Nasal Epithelium and Asthma Endotypes in Youth](https://jamanetwork.com/journals/jama/article-abstract/2828721?resultClick=1). <em><ins>JAMA. 2025 Jan 2. doi: 10.1001/jama.2024.22684. PMID: 39745770 </ins></em>
 
 
 - Hu H, Wang X, Feng S, Xu Z, Liu J, Heidrich-O’Hare E, Chen Y, Yue M, Zeng L, Rong Z, Chen T, Billiar T, Ding Y, Huang H, Duerr R, **Chen W**. [A unified model-based framework for doublet or multiplet detection in single-cell multiomics data.](https://www.nature.com/articles/s41467-024-49448-x) <em><ins>Nature Communications. 2024 Jul 2;15(1):5562</ins></em>.
