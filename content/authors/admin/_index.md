@@ -73,7 +73,7 @@ user_groups:
 
 My lab focuses on developing statistical and computational methods for the analysis of large-scale biomedical data and applying them to study complex diseases. Collaborating with our colleagues, we use cutting-edge technologies, including bulk and single-cell multi-omics (DNA-seq, RNA-seq, methylation, ATAC-seq, Spatial Transcriptomics) to study human diseases such as childhood asthma and age-related macular degeneration. Chen lab welcomes collaborators and trainees to move science forward.  Our lab is generously supported by the National Institute of Health, National Science Foundation, Scleroderma Research Foundation, Helmsley Charitable Trust,  University of Pittsburgh, and UPMC.
 
-{{< figure library="true" src="files/research1.png" >}}
+{{< figure library="true" src="media/research1.png" >}}
 
 <!-- Postdoc positions are available [here]({{< ref "/positions/index.md" >}}). Positions for graduate student research assistants and undergraduate student workers are also available. Rotation students are also welcome. Please contact Wei Chen at wei.chen@chp.edu for more information. -->
 
