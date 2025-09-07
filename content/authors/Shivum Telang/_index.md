@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Shivum Teleng
+title: Shivum Telang
 
 # Username (this should match the folder name)
 authors:
-- Shivum Teleng
+- Shivum Telang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: High school researcher
+role: High School Student Researcher
 
 # Organizations/Affiliations
 organizations:
