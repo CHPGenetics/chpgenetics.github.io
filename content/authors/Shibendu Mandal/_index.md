@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Data analyst
+role: Data Analyst
 
 # Organizations/Affiliations
 organizations:
