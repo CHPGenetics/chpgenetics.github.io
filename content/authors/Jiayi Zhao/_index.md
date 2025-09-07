@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Shiyue Tao
+title: Jiayi Zhao
 
 # Username (this should match the folder name)
 authors:
-- Shiyue Tao
+- Jiayi Zhao
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. Student in Biostatistics
+role: Bioinformatician
 
 # Organizations/Affiliations
 organizations:
@@ -44,7 +44,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:shiyuetao@pitt.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:jiayizh3@andrew.cmu.edu'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -65,7 +65,7 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-weight: 111
+weight: 201
 user_groups:
 - Lab Members
 ---
