@@ -66,7 +66,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-- 9/2025 Chen Lab received R01 from NIAMS with Dr. Torok to integrate Spational transcriptomics with histology images for identifying scleroderma subgrouops.  
+- 9/2025 Chen Lab received an R01 from NIAMS with Dr. Torok to integrate spational transcriptomics with histology images for identifying scleroderma subgroups.  
 - 8/2025 Chen Lab received a DoD grant with Dr. Torok to study pediatric scleroderma using a multi-omics approach.
 - 8/2025 Congratulations to Xiangyu Ye for receiving the highly competitive finalist for the ASHG trainee award, also with an oral talk at ASHG conference at Boston in Oct.  
 - 7/2025 Congratulations to Shivum Telang for receiving the student travel award from the ICIBM conference in Columbus, Ohio. 
