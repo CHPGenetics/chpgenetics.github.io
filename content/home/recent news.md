@@ -65,7 +65,11 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
-+++ 
++++
+- 9/2025 Chen Lab received R01 from NIAMS with Dr. Torok to integrate Spational transcriptomics with histology images for identifying scleroderma subgrouops.  
+- 8/2025 Chen Lab received a DoD grant with Dr. Torok to study pediatric scleroderma using a multi-omics approach.
+- 8/2025 Congratulations to Xiangyu Ye for receiving the highly competitive finalist for the ASHG trainee award, also with an oral talk at ASHG conference at Boston in Oct.  
+- 7/2025 Congratulations to Shivum Telang for receiving the student travel award from the ICIBM conference in Columbus, Ohio. 
 - 1/2025 Congratulations to Molin Yue's work on child asthma endotypes published in [JAMA](https://jamanetwork.com/journals/jama/article-abstract/2828721). News report: [ABC](https://www.wtae.com/article/pitt-asthma-research-nasal-swab-clinical-trials/63385491),[NBC](https://www.nbcnews.com/health/health-news/asthma-test-nasal-swab-detect-different-types-rcna185791), [CBS](https://www.cbsnews.com/pittsburgh/news/pitt-asthma-research-breakthrough-nasal-swab/), [Washington Post](https://www.washingtonpost.com/health/2025/01/12/pediatric-asthma-nasal-swab-test/),[Post Gazatte](https://www.post-gazette.com/news/health/2025/01/12/asthma-treatment-kids/stories/202501120025), [Pitt](https://pittnews.com/article/193375/featured/pitt-researchers-discover-new-way-to-diagnose-asthma-subtypes-in-children/)
 - 12/2024 Haoran Hu was awarded a two-year RAC graduate student fellowship from UPMC Children's Hospital of Pittsburgh. 
 - 11/2024 Xueping's paper was published by [Briefings in Bioinformatics](https://academic.oup.com/bib/article/25/6/bbae585/7900220).
