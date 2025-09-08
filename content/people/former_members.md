@@ -20,7 +20,6 @@ weight = 80  # Order that this section will appear.
       <th scope="col">Current Position</th>
     </tr>
   </thead>
-
   <thead class="thead-light">
     <tr>
       <th scope="col">Andrew Li</th>
@@ -70,6 +69,16 @@ weight = 80  # Order that this section will appear.
       <th scope="col">Assistant Attending Biostatistician, Memorial Sloan Kettering Cancer Center</th>
     </tr>
   </thead>
+
+<thead class="thead-light">
+    <tr>
+      <th scope="col">Claire Zheng</th>
+      <th scope="col">2022</th>
+      <th scope="col">High School Student Researcher</th>
+      <th scope="col">Undergraduate student at Massachusetts Institute of Technology</th>
+    </tr>
+  </thead>
+
   <thead class="thead-light">
     <tr>
       <th scope="col">Qi Yan</th>
