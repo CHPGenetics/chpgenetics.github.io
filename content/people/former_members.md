@@ -12,7 +12,6 @@ weight = 80  # Order that this section will appear.
 <br>
 <table class="table">
   <!-- <caption>List of former lab members</caption> -->
-  
   <thead class="thead-light">
     <tr>
       <th scope="col"></th>
@@ -21,6 +20,16 @@ weight = 80  # Order that this section will appear.
       <th scope="col">Current Position</th>
     </tr>
   </thead>
+
+  <thead class="thead-light">
+    <tr>
+      <th scope="col">Andrew Li</th>
+      <th scope="col">2023-2025</th>
+      <th scope="col">High School Student Researcher</th>
+      <th scope="col">Undergraduate student at University of Pennsylvania</th>
+    </tr>
+  </thead>
+
   <thead class="thead-light">
     <tr>
       <th scope="col">Ziqi Rong</th>
@@ -181,12 +190,12 @@ weight = 80  # Order that this section will appear.
       <th scope="col">Tenure Track Assistant Professor (TTAP), Florida Atlantic University</th>
     </tr>
   </thead>
+
   
+
   
-  
-  
-  
-  
+
+
 <!--
   <tbody class="thead-dark">
     <tr class="table-info">
@@ -288,5 +297,4 @@ weight = 80  # Order that this section will appear.
   </tbody>
 -->
 </table>
-
 
