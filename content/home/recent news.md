@@ -66,21 +66,21 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-- 09/2025, Dr. Chen received pediatric discovery award from the Department of Pediatrics for his outstanding publication in translational science.
-- 9/2025 Chen Lab received an R01 from NIAMS with Dr. Torok to integrate spational transcriptomics with histology images for identifying scleroderma subgroups.  
-- 8/2025 Chen Lab received a DoD grant with Dr. Torok to study pediatric scleroderma using a multi-omics approach.
-- 8/2025 Congratulations to Xiangyu Ye for receiving the highly competitive finalist for the ASHG trainee award, also with an oral talk at ASHG conference at Boston in Oct.  
-- 7/2025 Congratulations to Shivum Telang for receiving the student travel award from the ICIBM conference in Columbus, Ohio. 
-- 1/2025 Congratulations to Molin Yue's work on child asthma endotypes published in [JAMA](https://jamanetwork.com/journals/jama/article-abstract/2828721). News report: [ABC](https://www.wtae.com/article/pitt-asthma-research-nasal-swab-clinical-trials/63385491),[NBC](https://www.nbcnews.com/health/health-news/asthma-test-nasal-swab-detect-different-types-rcna185791), [CBS](https://www.cbsnews.com/pittsburgh/news/pitt-asthma-research-breakthrough-nasal-swab/), [Washington Post](https://www.washingtonpost.com/health/2025/01/12/pediatric-asthma-nasal-swab-test/),[Post Gazatte](https://www.post-gazette.com/news/health/2025/01/12/asthma-treatment-kids/stories/202501120025), [Pitt](https://pittnews.com/article/193375/featured/pitt-researchers-discover-new-way-to-diagnose-asthma-subtypes-in-children/)
+- 09/2025 Dr. Chen received pediatric discovery award from the Department of Pediatrics for his outstanding publication in translational science.
+- 09/2025 Chen Lab received an R01 from NIAMS with Dr. Torok to integrate spational transcriptomics with histology images for identifying scleroderma subgroups.  
+- 08/2025 Chen Lab received a DoD grant with Dr. Torok to study pediatric scleroderma using a multi-omics approach.
+- 08/2025 Congratulations to Xiangyu Ye for receiving the highly competitive finalist for the ASHG trainee award, also with an oral talk at ASHG conference at Boston in Oct. 
+- 07/2025 Congratulations to Shivum Telang for receiving the student travel award from the ICIBM conference in Columbus, Ohio. 
+- 01/2025 Congratulations to Molin Yue's work on child asthma endotypes published in [JAMA](https://jamanetwork.com/journals/jama/article-abstract/2828721). News report: [ABC](https://www.wtae.com/article/pitt-asthma-research-nasal-swab-clinical-trials/63385491),[NBC](https://www.nbcnews.com/health/health-news/asthma-test-nasal-swab-detect-different-types-rcna185791), [CBS](https://www.cbsnews.com/pittsburgh/news/pitt-asthma-research-breakthrough-nasal-swab/), [Washington Post](https://www.washingtonpost.com/health/2025/01/12/pediatric-asthma-nasal-swab-test/),[Post Gazatte](https://www.post-gazette.com/news/health/2025/01/12/asthma-treatment-kids/stories/202501120025), [Pitt](https://pittnews.com/article/193375/featured/pitt-researchers-discover-new-way-to-diagnose-asthma-subtypes-in-children/)
 - 12/2024 Haoran Hu was awarded a two-year RAC graduate student fellowship from UPMC Children's Hospital of Pittsburgh. 
 - 11/2024 Xueping's paper was published by [Briefings in Bioinformatics](https://academic.oup.com/bib/article/25/6/bbae585/7900220).
 - 10/2024 Chen Lab received a renewal from [Scleroderma Research Funding](https://srfcure.org/disease-propogation-in-juvenile-scleroderma/)(with Dr. Torok) to continue the study of spatial transcriptomics in pediatric scleroderma patients. 
-- 9/2024 Dr. Chen joined the officers of Pittsburgh Chapter, American Association Society as Chapter Representative. 
-- 8/2024 Haoran's paper was published by [Nature Communications](https://www.nature.com/articles/s41467-024-49448-x) and selected as a featured article.
-- 5/2024 Dr. Chen co-organized [STATGEN 2024](https://www.publichealth.pitt.edu/statgen-2024-conference-statistics-genomics-and-genetics) conference in Pittsburgh. 
-- 3/2024 Chen Lab received an [R01](https://reporter.nih.gov/search/xzRDncNh6Ei48FgOMdC6iQ/project-details/10805885) (with Dr. Duerr) from NIDDK to generate a large-scale trans-ancestry, single-cell multi-omics dataset on CD4 T cells. 
-- 2/2024 Molin Yue received the 2024 ATS Abstract Scholarship. 
-- 1/2024 Dr. Chen was elected as Secretary of [Chinese-American Lung Association](https://mycala.org/) (CALA) 
+- 09/2024 Dr. Chen joined the officers of Pittsburgh Chapter, American Association Society as Chapter Representative. 
+- 08/2024 Haoran's paper was published by [Nature Communications](https://www.nature.com/articles/s41467-024-49448-x) and selected as a featured article.
+- 05/2024 Dr. Chen co-organized [STATGEN 2024](https://www.publichealth.pitt.edu/statgen-2024-conference-statistics-genomics-and-genetics) conference in Pittsburgh. 
+- 03/2024 Chen Lab received an [R01](https://reporter.nih.gov/search/xzRDncNh6Ei48FgOMdC6iQ/project-details/10805885) (with Dr. Duerr) from NIDDK to generate a large-scale trans-ancestry, single-cell multi-omics dataset on CD4 T cells. 
+- 02/2024 Molin Yue received the 2024 ATS Abstract Scholarship. 
+- 01/2024 Dr. Chen was elected as Secretary of [Chinese-American Lung Association](https://mycala.org/) (CALA) 
 
 
 [more news](https://chenlab.pitt.edu/news.html)
