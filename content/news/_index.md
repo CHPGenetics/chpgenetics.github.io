@@ -12,6 +12,7 @@ view: 2
 #  caption: ""
 #  image: "research.jpg"
 ---
+- 09/2025 Congratulations to Tianhao Liu for receiving the 2025 3CPR Junior Investigator Travel Grant from the American Heart Association.
 - 09/2025 Dr. Chen received pediatric discovery award from the Department of Pediatrics for his outstanding publication in translational science.
 - 09/2025 Chen Lab received an R01 from NIAMS with Dr. Torok to integrate spational transcriptomics with histology images for identifying scleroderma subgroups.  
 - 08/2025 Chen Lab received a DoD grant with Dr. Torok to study pediatric scleroderma using a multi-omics approach.
