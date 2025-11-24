@@ -79,6 +79,15 @@ weight = 80  # Order that this section will appear.
     </tr>
   </thead>
 
+<thead class="thead-light">
+    <tr>
+      <th scope="col">Tianmeng Chen</th>
+      <th scope="col">2018-2021</th>
+      <th scope="col">PhD Student</th>
+      <th scope="col">Research Assistant Professor at University of Pittsburgh</th>
+    </tr>
+  </thead>
+
   <thead class="thead-light">
     <tr>
       <th scope="col">Qi Yan</th>
