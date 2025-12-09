@@ -12,6 +12,7 @@ view: 2
 #  caption: ""
 #  image: "research.jpg"
 ---
+- 12/2025 Dr. Chen and Molin, together with collaborators Dr. Juan C. Celedón, Dr. Erick Forno, Dr. Kathryn S. Torok, and Dr. Zhao Ren, received the [ENAR Team Science Award](https://www.enar.org/about/award-winners.cfm) for their integrative multi-omics and precision medicine research.
 - 10/2025 Chen lab was congratulated by the Department of Pediatrics on the research of AI-guided research on scleroderma. [News](https://www.pediatrics.pitt.edu/news/torok-chen-awarded-grants-scleroderma-research)
 - 09/2025 Dr. Chen received pediatric discovery award from the Department of Pediatrics for his outstanding publication in translational science.
 - 09/2025 Chen Lab received an R01 from NIAMS with Dr. Torok to integrate spational transcriptomics with histology images for identifying scleroderma subgroups.  
