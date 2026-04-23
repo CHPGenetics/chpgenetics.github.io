@@ -68,7 +68,7 @@ subtitle = ""
 +++
 - [A list of complete publications](https://www.ncbi.nlm.nih.gov/myncbi/1BiLmrlnjqUQE/bibliography/public/?sortby=pubDate&sdirection=descending)
 - Kim S, Caldino Bohn RI, Sriram A, Park HJ, Huang Z, Chen W, Celedón JC. [Estimating in silico causal effects of DNA methylation on gene expression through genetic anchors in airway epithelium in asthma](https://www.science.org/doi/full/10.1126/sciadv.ady3555) <em><ins>Science Advances. 2026; Vol. 12, No. 17</ins></em>.
-- Xu Z, Tao S, Feng S, Ye X, Wang T, Hu H, Heidrich-O'Hare E, **Chen W**#, Duerr RH#. [Dissecting PGE2-driven inhibition of T cell activation using single-cell multi-omic and inflammatory bowel disease genetic association analysis.](https://www.nature.com/articles/s41467-026-71383-2) <em><ins><em><ins>Nature Communications. April 2026</ins></em>.
+- Xu Z, Tao S, Feng S, Ye X, Wang T, Hu H, Heidrich-O'Hare E, Chen W#, Duerr RH#. [Dissecting PGE2-driven inhibition of T cell activation using single-cell multi-omic and inflammatory bowel disease genetic association analysis.](https://www.nature.com/articles/s41467-026-71383-2) <em><ins><em><ins>Nature Communications. April 2026</ins></em>.
 - Yue M, Gaietto K, Han YY, Rosser F, Xu Z, Qoyawayma C, Acosta-Perez E, Canino G, Forno E, **Chen W**#, Juan Celedon#. [Transcriptomic Profiles in Nasal Epithelium and Asthma Endotypes in Youth](https://jamanetwork.com/journals/jama/article-abstract/2828721?resultClick=1). <em><ins>JAMA. 2025 Jan 2. doi: 10.1001/jama.2024.22684. PMID: 39745770 </ins></em>
 
 
