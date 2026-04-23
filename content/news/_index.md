@@ -12,7 +12,7 @@ view: 2
 #  caption: ""
 #  image: "research.jpg"
 ---
-- 04/2026 Congratulations to Soyeon Kim on the publication of her study on causal mediation analyses of DNA methylation on gene expression in asthma in [*Science Advances*](https://www.science.org/doi/full/10.1126/sciadv.ady3555).
+- 04/2026 Congratulations to Soyeon Kim on the publication of her study on causal mediation analyses of DNA methylation on gene expression through genetic anchors in asthma in [*Science Advances*](https://www.science.org/doi/full/10.1126/sciadv.ady3555).
 - 04/2026 Congratulations to Zhongli Xu and Shiyue Tao on the publication of their PBMC DOGMA-seq study in [*Nature Communications*](https://www.nature.com/articles/s41467-026-71383-2).
 - 03/2026 Haoran Hu won the Best Oral Presentation Award in the Annual Biostatistics Research Day.
 - 03/2026 Congratulations to Xiangyu Ye for publishing a [collaborative paper on Cell](https://linkinghub.elsevier.com/retrieve/pii/S0092-8674(26)00220-5).
