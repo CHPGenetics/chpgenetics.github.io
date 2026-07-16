@@ -101,4 +101,4 @@ subtitle = ""
 
 
 
-[more publications](https://www.ncbi.nlm.nih.gov/myncbi/1BiLmrlnjqUQE/bibliography/public/?sortby=pubDate&sdirection=descending)
+[more publications](https://www.ncbi.nlm.nih.gov/myncbi/wei.chen.5/bibliography/public/)
